@@ -1,7 +1,5 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import UsersTable  from './UsersTable'
+import './App.styles.css';
+import UsersTable  from './components/UsersTable'
 
 function App() {
   return (
